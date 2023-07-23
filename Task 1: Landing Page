@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Book Shopping Website</title>        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <link rel="stylesheet" href="page.css">
+</head>
+<body background image="back.jpg">
+    
+      <header>
+        <div class="topnav">
+          <a href="#home">Home</a>
+          <a href="#contact">Store</a>
+          <a href="#contact">Website</a>
+          <a href="#news">Order</a>
+          <a href="#about">Contact</a>
+          <a href="#about">Membership</a>
+        </div>
+        </header>
+        
+          <img src="background image.jpg" width="1480px" height="800px" >
+        </div>
+        
+           <nav>
+              <div class="one">
+                  <h2>The Book Shoppe</h2><br>
+                  <h3>Buy Your Favourite Books</h3>
+              </div>
+            </nav>
+
+            <div class="container">
+    <div class="book">
+      <img src="book1.jpg" alt="Book 1">
+      <div class="details">
+        <h2>Harry Potter and the order of pheonix</h2>
+        <p>Author: J. K. Rowling</p>
+        <p>Price: Rs800</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+
+     <div class="book">
+      <img src="book2.jpg" alt="Book 2">
+      <div class="details">
+        <h2>Harrypotter and the sorcerers stone</h2>
+        <p>Author: J. K. Rowling</p>
+        <p>Price: Rs700</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+
+    <div class="book">
+      <img src="book3.jpg" alt="Book 3">
+      <div class="details">
+        <h2>HARRYpotter the order of pheonix</h2>
+        <p>Author: J. K. Rowling</p>
+        <p>Price: Rs800</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+
+    <div class="book">
+      <img src="ikigai.jpg" alt="Book 4">
+      <div class="details">
+        <h2>ikigai</h2>
+        <p>Author: J. K. Rowling</p>
+        <p>Price: Rs150</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+
+   <div class="book">
+      <img src="Xman.jpg" alt="Book 5">
+      <div class="details">
+        <h2>X-men</h2>
+        <p>Author: Stan lee</p>
+        <p>Price: Rs1000</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+      </div>
+      
+      </body>   
+
+    
+<footer class="footer-distributed">
+
+      <div class="footer-left">
+
+        <h3><span>logo</span></h3>
+
+        <p class="footer-links">
+          <a href="#" class="link-1">Home</a>
+          
+          <a href="#">Blog</a>
+        
+          <a href="#">Pricing</a>
+        
+          <a href="#">About</a>
+          
+          <a href="#">Faq</a>
+          
+          <a href="#">Contact</a>
+        </p>
+
+        <p >The Book Shoppe © 2015</p>
+      </div>
+
+      <div class="footer-center">
+
+        <div>
+          <p><span>Delhi</span> India</p>
+        </div>
+
+        <div>
+          <p>+91-1234567894</p>
+        </div>
+
+        <div>
+          
+          <p><a href="#">support@bookshoppe.com</a></p>
+        </div>
+
+      </div>
+
+      <div class="footer-right">
+
+        <p>
+          <span>About the website</span><br>The Book Shoppe is an amazing book website where you can buy books of different categories with so much of content
+          in it.
+        </p>
+
+      </div>
+    </footer>
+   <footer class="bg-dark-1">
+      <section id="footer" class="py-5">
+        <div class="container text-center">
+          <a href="#" class="twitter"></a>
+          <a href="#" class="linkedin"></a>
+          <a href="#" class="facebook"></a>
+          <a href="#" class="skype"></a>
+          <a href="#" class="flickr"></a>
+          <h6>Book Shoppe</h6>
+        </div>
+      </section>
+    </footer>
+
+</html>
+
+
